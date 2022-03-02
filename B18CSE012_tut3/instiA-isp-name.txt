@@ -1,0 +1,4 @@
+No of IPS provider for insti A: 3
+55410   Vodafone Idea Ltd
+55824   NKN Core Network
+4755    TATA Communications formerly VSNL is Leading ISP

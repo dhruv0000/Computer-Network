@@ -1,0 +1,10 @@
+174 Degrees:4304    Cogent Communications
+3356 Degrees:4032   Level 3 Communications 
+6939 Degrees:3059   Hurricane Electric LLC
+7018 Degrees:2374   AT&T Services, Inc.
+4323 Degrees:1869   tw telecom holdings, inc.
+209 Degrees:1546    CenturyLink Communications, LLC
+701 Degrees:1450    Verizon Business
+6461 Degrees:1220   Zayo Bandwidth
+3549 Degrees:1111   Level 3 Parent, LLC
+9002 Degrees:1105   RETN Limited
